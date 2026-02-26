@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/12M8Z5vv_y-CE4-afrNLcE1vS8Yr8a5oA#scrollTo=6xPZces_Ju4Z
+
 # AI Chatbot for Business – Beginner-Friendly Syllabus
 
 This syllabus is designed for **BCA students with little to no AI knowledge**. The course focuses on **practical, hands-on learning** with minimal theory. By the end of the course, students will be able to build simple AI chatbots for business use and understand basic automation.
