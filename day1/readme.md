@@ -17,7 +17,7 @@ Audio("output.mp3", autoplay=True)
 ```
 !pip install pytesseract #for google lens like ocr
 ```
-##image TO Text
+### image TO Text
 
 ```
 from PIL import Image
