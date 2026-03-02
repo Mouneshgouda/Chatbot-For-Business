@@ -1,4 +1,6 @@
-https://colab.research.google.com/drive/12M8Z5vv_y-CE4-afrNLcE1vS8Yr8a5oA#scrollTo=6xPZces_Ju4Z
+
+
+
 
 # AI Chatbot for Business – Beginner-Friendly Syllabus
 
