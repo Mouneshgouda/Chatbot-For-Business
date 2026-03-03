@@ -1,6 +1,5 @@
 
 ```
-!pip install --upgrade google-generativeai pandas
 
 import pandas as pd
 import google.generativeai as genai
