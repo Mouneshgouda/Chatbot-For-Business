@@ -110,4 +110,4 @@ iface = gr.Interface(
 iface.launch()
 ```
 
-https://github.com/Nirant07/Azure-AI-Fundamentals-AI-900-Microsoft/blob/main/Azure%20AI%20YT%20Notes.pdf
+https://drive.google.com/drive/folders/1S4ajqpQMqUyGiSsT9RUgFgLtOZsnb-TI?usp=sharing
